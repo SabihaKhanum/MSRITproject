@@ -2,7 +2,7 @@
 
 ## Requirements
 
-The system runs a blockchain network in Hyperledger Fabric plataform and uses Mininet and Ryu controller to simulate a SDN environment. Install the following requirements prior running the system:
+The system runs a blockchain network in Hyperledger Fabric platform and uses Mininet and Ryu controller to simulate a SDN environment. Install the following requirements prior running the system:
 
 * [Hyperledger Fabric 2.0](https://hyperledger-fabric.readthedocs.io/en/release-2.0/install.html)
 * [Mininet](http://mininet.org/download/#option-2-native-installation-from-source)
